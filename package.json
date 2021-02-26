@@ -2,7 +2,7 @@
 	"name": "devit",
 	"description": "description",
 	"authors": "elimerl",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "lib/index.js",
 	"devDependencies": {
 		"type-fest": "^0.21.1",
